@@ -1,0 +1,30 @@
+body{
+    padding: 100px;
+}
+.titel{
+    text-decoration: underline;
+    
+}
+.submit-area{
+  margin-top: 50px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px;
+  height: 250px;
+}
+#Transaction-area{
+    display: none;
+}
+.status{
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px black;
+}
+
+.calcuate{
+    box-shadow: 5px 5px 10px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.content{
+    padding-top: 40px;
+}
