@@ -1,5 +1,6 @@
 body{
     padding: 100px;
+    background-image: url(img/bank.jpg);
 }
 .titel{
     text-decoration: underline;
@@ -8,7 +9,7 @@ body{
 .submit-area{
   margin-top: 50px;
   border-radius: 10px;
-  box-shadow: 5px 5px 10px;
+  box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.15), -6px -6px 10px -1px rgba(255, 255, 255, 0.7);
   height: 250px;
 }
 #Transaction-area{
